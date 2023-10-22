@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\bin\Debug\net4.8\IML Protektor.exe.config
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\bin\Debug\net4.8\IML Protektor.exe
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\bin\Debug\net4.8\IML Protektor.pdb
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.AssemblyInfo.cs
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.csproj.Fody.CopyLocal.cache
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.exe
+C:\Users\david\Desktop\Awooochy programs\IML Protektor\IML Protektor\IML Protektor\obj\Debug\net4.8\IML Protektor.pdb
